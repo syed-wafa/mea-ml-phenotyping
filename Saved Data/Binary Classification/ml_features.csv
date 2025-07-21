@@ -1,0 +1,41 @@
+Mean firing rate
+ISI CV
+Network ISI CV
+Spike count fano factor
+# of active electrodes
+Weighted mean firing rate
+# of bursting electrodes
+Mean burst duration
+Mean # of spikes per burst
+Mean ISI within bursts
+Median ISI within bursts
+Median/mean ISI within bursts
+Mean IBI
+Mean burst rate
+Normalized burst duration IQR
+IBI CV
+Burst %
+Mean NB rate
+Mean NB duration
+Mean # of spikes per NB
+Mean ISI within NBs
+Median ISI within NBs
+Median/mean ISI within NBs
+ISI CV within NBs
+# of NB electrodes
+Weighted mean # of spikes per NB
+NB %
+INBI CV
+Normalized NB duration IQR
+Normalized cross-correlation AUC
+FWHH of normalized cross-correlation
+Synchrony index
+Kreuz SPIKE distance
+NB peak firing rate
+Time to NB peak
+Spike count fano factor within NBs
+ISI CV within bursts
+Spike count fano factor within bursts
+Mean INBI
+Mean ISI
+Spike time tiling coefficient
